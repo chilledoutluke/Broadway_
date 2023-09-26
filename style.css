@@ -101,6 +101,7 @@ html, body {
   .supporting .col {
     font-family: 'Raleway', sans-serif;
     text-align: center;
+    display: inline-block;
   }
   
   .supporting img {
